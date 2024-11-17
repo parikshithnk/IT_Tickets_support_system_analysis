@@ -1,6 +1,11 @@
 # IT_Tickets_support_system_analysis:
-Project is done in Excel, to help higher authorities to take future 
+This project is done to help higher authorities to take future 
 decesions like investments, hiring or training etc.
+
+# Project includes:
+1. Excel file
+2. Document
+3. Presentation
 
 # Objectives achieved:
 1. Analysed the support team performance and discovered that the team is not working at its full potential.
